@@ -1,0 +1,7 @@
+{
+  "name": "A3_S3_Miller_3E1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
